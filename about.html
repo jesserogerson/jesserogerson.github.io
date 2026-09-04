@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>About | Jesse Rogerson</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      background: #07111f;
+      color: #f4f7fb;
+      line-height: 1.7;
+    }
+
+    header {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background: rgba(7, 17, 31, 0.95);
+      border-bottom: 1px solid #1d3048;
+      z-index: 10;
+    }
+
+    nav {
+      max-width: 1100px;
+      margin: auto;
+      padding: 18px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 1.2rem;
+      font-weight: 700;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 28px;
+    }
+
+    nav a {
+      color: #c9d6e5;
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+
+    nav a:hover {
+      color: #7dc4ff;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: auto;
+      padding: 150px 30px 100px;
+    }
+
+    .page-title {
+      font-size: 3.5rem;
+      margin-bottom: 15px;
+    }
+
+    .subtitle {
+      color: #7dc4ff;
+      font-size: 1.1rem;
+      margin-bottom: 60px;
+    }
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 60px;
+      align-items: start;
+    }
+
+    .headshot {
+      width: 280px;
+      height: 340px;
+      border: 1px solid #35516d;
+      background: #0d1d30;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #70869c;
+      text-align: center;
+    }
+
+    .content h2 {
+      font-size: 1.8rem;
+      margin-bottom: 15px;
+      margin-top: 35px;
+    }
+
+    .content h2:first-child {
+      margin-top: 0;
+    }
+
+    .content p {
+      color: #aebdcd;
+      margin-bottom: 20px;
+    }
+
+    .back {
+      display: inline-block;
+      margin-top: 50px;
+      color: #7dc4ff;
+      text-decoration: none;
+    }
+
+    .back:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      border-top: 1px solid #1d3048;
+      text-align: center;
+      padding: 30px;
+      color: #71859a;
+    }
+
+    @media (max-width: 750px) {
+      nav ul {
+        display: none;
+      }
+
+      .about-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .headshot {
+        margin: auto;
+      }
+
+      .page-title {
+        font-size: 2.8rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <nav>
+    <div class="logo">Jesse Rogerson</div>
+
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="index.html#research">Research</a></li>
+      <li><a href="index.html#teaching">Teaching</a></li>
+      <li><a href="index.html#outreach">Outreach</a></li>
+      <li><a href="index.html#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+
+  <h1 class="page-title">About</h1>
+
+  <p class="subtitle">
+    Associate Professor of Physics · York University
+  </p>
+
+  <div class="about-grid">
+
+    <div class="headshot">
+      <div>
+        <strong>Headshot</strong><br>
+        <small>Photo coming soon</small>
+      </div>
+    </div>
+
+    <div class="content">
+
+      <h2>About Me</h2>
+
+      <p>
+        I am an Associate Professor of Physics at York University,
+        where I work across physics, astronomy, education, and public
+        engagement with science.
+      </p>
+
+      <p>
+        I am particularly interested in helping people understand
+        science—not simply by giving them answers, but by helping them
+        develop the tools and confidence to find answers themselves.
+      </p>
+
+      <h2>Physics & Astronomy</h2>
+
+      <p>
+        My work is rooted in physics and astronomy and in the broader
+        question of how we understand the universe. I am also interested
+        in finding ways to make astronomy and physics accessible and
+        engaging to people beyond the university classroom.
+      </p>
+
+      <h2>Teaching & Engagement</h2>
+
+      <p>
+        My approach to teaching emphasizes curiosity, critical thinking,
+        and resilience. I want students to leave a course with more than
+        a collection of facts and equations—they should have a better
+        sense of how to approach unfamiliar problems and questions.
+      </p>
+
+    </div>
+
+  </div>
+
+  <a href="index.html" class="back">← Back to home</a>
+
+</main>
+
+<footer>
+  © 2026 Jesse Rogerson
+</footer>
+
+</body>
+</html>
