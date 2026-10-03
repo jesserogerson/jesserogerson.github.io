@@ -29,7 +29,7 @@ author:
   bio              : "An astronomer, science communicator, and enthusiast of awesome things."
   location         : "Earth"
   employer         : "York University"
-  uri              : "jesserogerson.com"
+  uri              : #"jesserogerson.com"
   email            : "rogerson@yorku.ca" 
 
   # Academic websites
