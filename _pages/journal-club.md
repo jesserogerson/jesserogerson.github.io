@@ -47,7 +47,7 @@ Pick an open date and tell us which paper you plan to present. Dates
 that are already taken disappear from the list.
 
 <iframe
-  src="PASTE_GOOGLE_FORM_EMBED_URL_HERE"
+  src="https://forms.gle/ccLmC7i4dWvyufkt6"
   width="100%"
   height="900"
   frameborder="0"
