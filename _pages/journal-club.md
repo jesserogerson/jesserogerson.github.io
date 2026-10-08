@@ -86,11 +86,13 @@ automatically as people sign up (it can take a few minutes).
 
 ---
 
+<!--
 ## Papers
 
 Papers are usually linked from the schedule above (arXiv or ADS). If you
 are presenting, please send the link to [YOUR EMAIL] at least a few days
 before your session so it can be shared with the mailing list.
+-->
 
 ## Past sessions
 
