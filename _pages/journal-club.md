@@ -2,6 +2,7 @@
 permalink: /journal-club/
 title: "Astronomy Journal Club"
 author_profile: true
+sitemap: false
 ---
 
 <!--
@@ -63,7 +64,7 @@ Who is presenting, and what paper they will cover. This table updates
 automatically as people sign up (it can take a few minutes).
 
 <iframe
-  src="PASTE_PUBLISHED_GOOGLE_SHEET_EMBED_URL_HERE"
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnayrYqQstcIjU7soCGpEhXV6SyGUf_YJLIneUHD5OjD9DCQYJ43PaZn3PFCW0T3wPz2ASS2uJevx3/pubhtml?gid=856737122&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%"
   height="500"
   frameborder="0">
