@@ -1,7 +1,7 @@
 ---
 permalink: /journal-club/
 title: "Astronomy Journal Club"
-author_profile: true
+author_profile: false
 sitemap: false
 ---
 
@@ -17,8 +17,8 @@ sitemap: false
 
 ## About
 
-The Astronomy Journal Club meets [HOW OFTEN, e.g. every second Thursday]
-at [TIME] in [ROOM / ONLINE LINK]. Each session, one person presents a
+The YorkU Astronomy Journal Club meets Wednesdays at 12:30pm in PSE317.
+Each session, one person presents a
 recent paper and leads a short discussion. Everyone is welcome, whether
 you are a student, a postdoc, a faculty member, or just curious.
 
