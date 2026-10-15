@@ -26,8 +26,8 @@ you are a student, a postdoc, a faculty member, or just curious.
 
 ## 1. Join the mailing list
 
-Get meeting reminders and the paper for each session by email. You can
-unsubscribe at any time.
+To join the mailing list and receive meeting reminders and each session’s paper,
+email Pat Hall at phall [at] yorku.ca.
 
 <!--
   Option A: paste your mailing list service's embed code here
@@ -35,9 +35,11 @@ unsubscribe at any time.
   Option B: if the list is a Google Group or a hosted signup page,
   use a link instead, for example:
   [Join the mailing list](PASTE_SIGNUP_LINK_HERE)
+  
+  [PASTE MAILING LIST EMBED CODE OR LINK HERE]
 -->
 
-[PASTE MAILING LIST EMBED CODE OR LINK HERE]
+
 
 ---
 
