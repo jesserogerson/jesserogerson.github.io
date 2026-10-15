@@ -45,8 +45,10 @@ email Pat Hall at phall [at] yorku.ca.
 
 ## 2. Sign up to lead a session
 
-Pick an open date and tell us which paper you plan to present. Dates
-that are already taken disappear from the list.
+Pick an open date and tell us which paper you plan to present.
+<!--
+Dates that are already taken disappear from the list.
+-->
 
 <iframe
   src="https://forms.gle/ccLmC7i4dWvyufkt6"
