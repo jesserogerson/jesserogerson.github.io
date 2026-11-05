@@ -105,4 +105,7 @@ before your session so it can be shared with the mailing list.
 | 2026-09-23 | Pat | |
 | 2026-09-30 | Pat |  |
 | 2026-10-07 | Jesse | Goodwin, A.J., Mummery, A. A universal critical accretion rate for black hole jet formation. Nat Astron (2026). https://doi.org/10.1038/s41550-026-02951-1|
-| 2026-10-14 | Pat | |
+| 2026-10-14 |  | |
+| 2026-10-21 | Pat | Hollands, et al. Any colour you like: The diverse chromaticities of white dwarfs. https://arxiv.org/abs/2610.18966 | 
+| 2026-10-28 | Pat | CASCA Emerging Researchers Showcase |
+| 2026-11-04 | Jesse | Massari, D., Zerbinati, C., Fanelli, C. et al. Evidence of a massive accretion event 1.8 billion years before the Gaia-Sausage-Enceladus merger. Nat Astron 10, 1570–1577 (2026). https://doi.org/10.1038/s41550-026-02931-5 | 
